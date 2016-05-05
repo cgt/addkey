@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "h+pFYiRHBogczS8/F1NoN3Ata44=",
+			"path": "golang.org/x/crypto/curve25519",
+			"revision": "019870fc9d457ee8abd13a2e93e3f2a3b55b7119",
+			"revisionTime": "2016-05-04T12:50:21Z"
+		},
+		{
+			"checksumSHA1": "33F9jl6AIf3uTlph7SzB7wtaFgs=",
+			"path": "golang.org/x/crypto/ssh",
+			"revision": "019870fc9d457ee8abd13a2e93e3f2a3b55b7119",
+			"revisionTime": "2016-05-04T12:50:21Z"
+		}
+	],
+	"rootPath": "cgt.name/pkg/addkey"
+}
