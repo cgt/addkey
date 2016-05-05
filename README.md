@@ -1,6 +1,12 @@
 addkey
 ======
 
+Installation
+------
+```
+go get cgt.name/pkg/addkey
+```
+
 License
 -------
 Copyright Christoffer G. Thomsen 2016
