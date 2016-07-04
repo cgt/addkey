@@ -28,7 +28,7 @@ func perr(e error) {
 	fmt.Fprintf(os.Stderr, "Error: %v\n", e)
 }
 
-// rmTmpFile closes and deletes a file.
+// rmFile closes and deletes a file.
 func rmFile(f *os.File) {
 	err := f.Close()
 	if err != nil {
